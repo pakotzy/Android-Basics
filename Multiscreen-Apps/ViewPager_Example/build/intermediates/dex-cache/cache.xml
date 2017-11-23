@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\God\.android\build-cache\540438f6233dee40e5b54d21315d331d8ad0dd08\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="D:\projects\AndroidProjects\Android-Basics-Multiscreen-Apps\ViewPager_Example\app\build\intermediates\pre-dexed\debug\classes_34a1433245a17d5b17853480adc9450553fa8e67.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\God\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.1\support-annotations-23.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="D:\projects\AndroidProjects\Android-Basics-Multiscreen-Apps\ViewPager_Example\app\build\intermediates\pre-dexed\debug\support-annotations-23.2.1_e62c4a4a5a5064ebffaf323128111e9c76b48497.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\God\.android\build-cache\116c65873b76c461ad1546033ba5453ca23f12f4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="D:\projects\AndroidProjects\Android-Basics-Multiscreen-Apps\ViewPager_Example\app\build\intermediates\pre-dexed\debug\classes_d6a2d520051ac47a26dab8cc951d037d4b776d71.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\God\.android\build-cache\77bc983b64fb764797558eb55cb8071ce981ec2d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="D:\projects\AndroidProjects\Android-Basics-Multiscreen-Apps\ViewPager_Example\app\build\intermediates\pre-dexed\debug\classes_746a57912aa46d8a1d655972efc0205c477f0a2d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\God\.android\build-cache\d72ae07aa5fd5b8fbcd4005bfb80a6b5f8ecc7b4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="D:\projects\AndroidProjects\Android-Basics-Multiscreen-Apps\ViewPager_Example\app\build\intermediates\pre-dexed\debug\classes_91bac202cd67c5bd1ce0ce06bdc2d5f1cf45e375.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\God\.android\build-cache\116c65873b76c461ad1546033ba5453ca23f12f4\output\jars\libs\internal_impl-23.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="D:\projects\AndroidProjects\Android-Basics-Multiscreen-Apps\ViewPager_Example\app\build\intermediates\pre-dexed\debug\internal_impl-23.2.1_e165233223610d737a20dfe0dc48562a9718a69f.jar" />
+    </item>
+
+</items>

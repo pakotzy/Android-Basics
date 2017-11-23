@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\God\.android\build-cache\c192d100b240fe99f5e86192d67c9695651053ea\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="D:\projects\AndroidProjects\Android-Basics-Networking\DidYouFeelIt\app\build\intermediates\pre-dexed\debug\classes_6adc4e3c7ac8f6619007191ea3e3bb707db37ea5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\God\.android\build-cache\14042e5dc30ca73f7f0895b0543590de56810d09\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="D:\projects\AndroidProjects\Android-Basics-Networking\DidYouFeelIt\app\build\intermediates\pre-dexed\debug\classes_cacbf0c6db4e3cb04ae609aceb204501f537af02.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\God\.android\build-cache\5ad8247ec3b04204ab7017509a9d3a83548ead04\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="D:\projects\AndroidProjects\Android-Basics-Networking\DidYouFeelIt\app\build\intermediates\pre-dexed\debug\classes_e902e8118e5b82b76e6c795c8e42ff3e5bb69ea4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\God\.android\build-cache\c192d100b240fe99f5e86192d67c9695651053ea\output\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="D:\projects\AndroidProjects\Android-Basics-Networking\DidYouFeelIt\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_8fd57d27d1ac4ef4bf28a00a827d465858f135d8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\God\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="D:\projects\AndroidProjects\Android-Basics-Networking\DidYouFeelIt\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_237de7bb27168462b25624ee222e3b271a7b6776.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\God\.android\build-cache\4808eaeb83fe2f42c0c5d03437928a209ac83a3d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="D:\projects\AndroidProjects\Android-Basics-Networking\DidYouFeelIt\app\build\intermediates\pre-dexed\debug\classes_a44b0a89549cb0e87add058496abf9bc444b339c.jar" />
+    </item>
+
+</items>

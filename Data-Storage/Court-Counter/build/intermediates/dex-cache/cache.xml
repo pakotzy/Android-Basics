@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\projects\AndroidProjects\Android-Basics-Data-Storage\Court-Counter\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5c218c9436b7dcca1267de481b9ab216137d3c5d">
+        <dex dex="D:\projects\AndroidProjects\Android-Basics-Data-Storage\Court-Counter\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_76d9a50c78c21fa829d2e6a30c2627ab10c4204f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\God\.android\build-cache\c09608e9ae7790b3d7cbf0a4fe1142e25c323d09\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="D:\projects\AndroidProjects\Android-Basics-Data-Storage\Court-Counter\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f3b8312145ffd01b4675b48ac5fff50683fd534f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\God\.android\build-cache\2b4492cced3eca93b75f27af54ad5bdfb6361f19\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="D:\projects\AndroidProjects\Android-Basics-Data-Storage\Court-Counter\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cc0443f2f6b5e83d14762cac2ee944a7583b6053\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\God\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="D:\projects\AndroidProjects\Android-Basics-Data-Storage\Court-Counter\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.0_7affa8712ba1685f43789489b76e49125882f0d2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\God\.android\build-cache\af2b9ebda720d2803ae427d554d7c466ad10d3d4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="D:\projects\AndroidProjects\Android-Basics-Data-Storage\Court-Counter\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a6f1ff354b577dba911d5b785a220613be4e2b98\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\projects\AndroidProjects\Android-Basics-Data-Storage\Court-Counter\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\projects\AndroidProjects\Android-Basics-Data-Storage\Court-Counter\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_1289f1d487fc4f2365a18e1251d5516f6c86e412\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\God\.android\build-cache\b8ae4d4d6f2cb1f5b3dcb9d83f2ae47ae29a06e0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="D:\projects\AndroidProjects\Android-Basics-Data-Storage\Court-Counter\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e837d715fb7fc56f7282ce0f845aa3d35cfac949\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\God\.android\build-cache\b211b1f970b42e207ffa535659b23d0cfecce129\output\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="D:\projects\AndroidProjects\Android-Basics-Data-Storage\Court-Counter\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_2a45f1b0320365a6d038ad8d4609f0e55fea6b60\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\God\.android\build-cache\753b5be06b22252eaf11f7b38a6e2b87519dcaf6\output\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="D:\projects\AndroidProjects\Android-Basics-Data-Storage\Court-Counter\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_0a8348873ea065f521bafbc94b628d7408d7e67c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\God\.android\build-cache\b211b1f970b42e207ffa535659b23d0cfecce129\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="D:\projects\AndroidProjects\Android-Basics-Data-Storage\Court-Counter\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4d58a838e07577855f7f9af459aa1661f69bdf8e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\God\.android\build-cache\2b4492cced3eca93b75f27af54ad5bdfb6361f19\output\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="D:\projects\AndroidProjects\Android-Basics-Data-Storage\Court-Counter\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_ec90c00f8ff1df03ee4e7b516aa30cc211bbece8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\God\.android\build-cache\9c0536557b42dd1aabf7bcf28d75c2327a9cd22c\output\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="D:\projects\AndroidProjects\Android-Basics-Data-Storage\Court-Counter\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_f8a858726314c9948f0b4abeacd114581ef778ce\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\God\.android\build-cache\486c6dd76209c9e77151859ebf7dfa7781461eb4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="D:\projects\AndroidProjects\Android-Basics-Data-Storage\Court-Counter\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3d2cb20c1b2c16e5463ed270f1b7058f9e67f84f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\God\.android\build-cache\753b5be06b22252eaf11f7b38a6e2b87519dcaf6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="D:\projects\AndroidProjects\Android-Basics-Data-Storage\Court-Counter\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_eeb09dcb17fe030764a213982dea9bc8cd372ada\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\God\.android\build-cache\45c9968dc22c615aa4fbd6f7e3962419a82190ee\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="D:\projects\AndroidProjects\Android-Basics-Data-Storage\Court-Counter\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ac8856825946d59910f2cfe7d353dcddf41d8c50\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\God\.android\build-cache\9c0536557b42dd1aabf7bcf28d75c2327a9cd22c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="D:\projects\AndroidProjects\Android-Basics-Data-Storage\Court-Counter\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c84b831914e57d320c0c22c3c843a45b63dbfe2b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\God\.android\build-cache\b8ae4d4d6f2cb1f5b3dcb9d83f2ae47ae29a06e0\output\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="D:\projects\AndroidProjects\Android-Basics-Data-Storage\Court-Counter\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_addc585770aa919119adf19f404c517249949fc5\classes.dex" />
+    </item>
+
+</items>

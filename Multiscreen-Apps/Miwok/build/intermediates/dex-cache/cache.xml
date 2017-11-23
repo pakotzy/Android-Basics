@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\projects\AndroidProjects\Android-Basics-Multiscreen-Apps\Miwok\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e59eab6c8182a3babdf3d14451be29c829e7ecb0">
+        <dex dex="D:\projects\AndroidProjects\Android-Basics-Multiscreen-Apps\Miwok\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_142efb2101acd61cd51b22b46bab317fc8133b2a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\projects\AndroidProjects\Android-Basics-Multiscreen-Apps\Miwok\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\projects\AndroidProjects\Android-Basics-Multiscreen-Apps\Miwok\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_8d40ac1ab46fa559dd3c8e2abe01ab9d163a946c\classes.dex" />
+    </item>
+
+</items>

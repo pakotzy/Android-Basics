@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name" translatable="false">JustJava</string>
+    <string name="buyer_name_edit_hint">Enter your first and second name</string>
+    <string name="toppings_header">Toppings</string>
+    <string name="whipped_cream_text">Whipped cream</string>
+    <string name="chocolate_text">Chocolate</string>
+    <string name="quantity_header">Quantity</string>
+    <string name="order_button_text">Order</string>
+
+    <string name="buyer_name">Name</string>
+    <string name="price">Price</string>
+    <string name="tymessage">Thank You!</string>
+    <string name="mail_subject">JustJava order for</string>
+    <string name="base_price">5</string>
+    <string name="whipped_cream_price">1</string>
+    <string name="chocolate_price">2</string>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="buyer_name_edit_hint">Введите Имя и Фамилию</string>
+    <string name="chocolate_text">Шоколад</string>
+    <string name="order_button_text">Заказать</string>
+    <string name="quantity_header">Количество</string>
+    <string name="toppings_header">Начинка</string>
+    <string name="whipped_cream_text">Взбитые сливки</string>
+    <string name="buyer_name">Имя</string>
+    <string name="price">Цена</string>
+    <string name="tymessage">Спасибо!</string>
+    <string name="mail_subject">JustJava заказ для</string>
+    <string name="base_price">300</string>
+    <string name="chocolate_price">120</string>
+    <string name="whipped_cream_price">60</string>
+</resources>
